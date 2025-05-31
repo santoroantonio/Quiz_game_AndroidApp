@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz_game</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score_format">%1$d/%2$d</string>
+    <string name="victory_msg">Hai Vinto!</string>
+    <string name="defeat_message">Hai Perso</string>
+</resources>

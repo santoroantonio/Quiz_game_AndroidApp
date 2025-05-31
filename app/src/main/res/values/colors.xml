@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navyBlue">#323b60</color>
+    <color name="purple">#d556e8</color>
+    <color name="magenta">#C942D7</color>
+    <color name="viola">#A456D1</color>
+    <color name="blu">#7462E0</color>
+    <color name="azzurro">#3BA5DA</color>
+    <color name="verde_acqua">#2CDDB9</color>
+    <color name="grigio_scuro">#1A1A1A</color>
+    <color name="grigio_chiaro">#bfbfbf</color>
+</resources>
